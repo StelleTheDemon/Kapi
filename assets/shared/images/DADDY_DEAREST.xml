@@ -58,7 +58,7 @@
 	<SubTexture name="Dad idle dance0009" x="3140" y="0" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
 	<SubTexture name="Dad idle dance0010" x="3925" y="0" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
 	<SubTexture name="Dad idle dance0011" x="3925" y="0" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
-	<SubTexture name="Dad idle dance0012" x="0" y="0" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
+	<SubTexture name="Dad idle dance0012" x="3925" y="0" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
 	<SubTexture name="Dad meow0000" x="0" y="4205" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
 	<SubTexture name="Dad meow0001" x="785" y="4205" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
 	<SubTexture name="Dad meow0002" x="785" y="4205" width="785" height="841" frameX="250" frameY="0" frameWidth="555" frameHeight="1040"/>
